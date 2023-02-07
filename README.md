@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/tw7wucx1boc0hr4x?svg=true)](https://ci.appveyor.com/project/ElenaBorgo/hw-patterns-1-aqa-47)
